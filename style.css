@@ -1,0 +1,47 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+
+body{
+    padding:12px;
+}
+.heading_section{
+    border: 1px solid #000;
+    padding:12px;
+    margin-bottom:12px;
+}
+
+.title{
+    text-decoration:underline;
+    margin-bottom:22px;
+}
+
+.heading_paragraph{
+    margin-bottom:22px;
+}
+
+a{
+    text-decoration:none;
+}
+
+.image_section{
+    margin-bottom:12px;
+}
+.img_container{
+    margin-bottom:12px;
+
+}
+
+.img{
+ width:300px
+}
+
+.list_contain{
+    padding:0 18px;
+}
+
+
+
+
